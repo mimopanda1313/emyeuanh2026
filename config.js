@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Nathan",
+    valentineName: "Anh",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Do you like me? 🥺",                                    // First interaction
+            yesBtn: "Yes 😘",                                             // Text for "Yes" button
+            noBtn: "No 🤮​",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I LOVEEEE you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much do you loveee me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Thank you for being my very first Valentines!! 🎉💝💖💝💓",
-        message: "Can't wait to give you a (light) smooch and (<10sec) hug! I love you anh!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! Thank you for being my very FIRST Valentines!! 🥹​🎉💝💖💝💓",
+        message: "Can't wait to give you a (light) smooch and (<10sec) hug! Em yêu anh!!!",
+        emojis: "我爱你🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
