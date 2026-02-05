@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Anh",
+    valentineName: "Wǒ de bǎobèi",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Nǐ xǐhuān wǒ ma? 🥺👉​👈",                                    // First interaction
+            text: "Nǐ xǐhuān wǒ maaaa? 🥺👉​👈",                                    // First interaction
             yesBtn: "wǒ xǐ huān nǐ!!! 😘",                                             // Text for "Yes" button
             noBtn: "wǒ bù xǐ huān nǐ.... 🤮​",                                               // Text for "No" button
             secretAnswer: "Wǒ bù xǐhuān nǐ, wǒ ài nǐ!!!!! ❤️"           // Secret hover message
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine? 🥺🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will you be my Valentine? 🥺👉​👈🌹", // The big question!
+            yesBtn: "Yes! 🥰",                                             // Text for "Yes" button
+            noBtn: "No.....🙃​"                                                 // Text for "No" button
         }
     },
 
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Thank you for being my very FIRST Valentines!! 🥹​🎉💝💖💝💓",
-        message: "Can't wait to give you a (light) smooch and (<10sec) hug! Em yêu anh!!!",
+        title: "Can't wait to give you a (light) smooch and (<10sec) hug!!",
+        message: "Yay! Thank you for being my very FIRST Valentines!!Em yêu anh!!🥹​🎉💝💖💝💓",
         emojis: "我爱你🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
