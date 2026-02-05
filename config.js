@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me? 🥺",                                    // First interaction
-            yesBtn: "Yes 😘",                                             // Text for "Yes" button
-            noBtn: "No 🤮​",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I LOVEEEE you! ❤️"           // Secret hover message
+            text: "Nǐ xǐhuān wǒ ma? 🥺👉​👈",                                    // First interaction
+            yesBtn: "wǒ xǐ huān nǐ!!! 😘",                                             // Text for "Yes" button
+            noBtn: "wǒ bù xǐ huān nǐ.... 🤮​",                                               // Text for "No" button
+            secretAnswer: "Wǒ bù xǐhuān nǐ, wǒ ài nǐ!!!!! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you loveee me?",                          // For the love meter
